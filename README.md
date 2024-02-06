@@ -1,6 +1,7 @@
 👋 Bonjour, Je suis Rayan Kabra (@RKcodage) !
 - 👀 Je suis passionné de Développement Web et de nouvelles technologies 
-- 🌱 Je suis actuellement en formation de Développeur Web Full Stack 
+- 🌱 Je suis actuellement en formation de Développeur Web Full Stack
+- ⚒ Pour voir mon Portfolio : https://rk-code.netlify.app/
 - 📫 Pour me contacter : rkabra.dev@gmail.com
 
 <!---
