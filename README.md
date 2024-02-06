@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RKcodage !
-- 👀 I’m interested in create modern websites and applications
-- 🌱 I’m currently learning Python and Javascript 
-- 💞️ I’m looking to collaborate on any web project !
-- 📫 How to reach me : rkabra.dev@gmail.com
+👋 Bonjour, Je suis Rayan Kabra (@RKcodage) !
+- 👀 Je suis passionné de Développement Web et de nouvelles technologies 
+- 🌱 Je suis actuellement en formation de Développeur Web Full Stack 
+- 📫 Pour me contacter : rkabra.dev@gmail.com
 
 <!---
 RKcodage/RKcodage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
